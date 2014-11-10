@@ -1,0 +1,27 @@
+{
+  "name": "Slydrz",
+  "version": "1.0.0",
+  "description": "first slydrz app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geoapi/slydrz.git"
+  },
+  "keywords": [
+    "Slydrz",
+    "Prezantation"
+  ],
+  "author": "George",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/geoapi/slydrz/issues"
+  },
+  "homepage": "https://github.com/geoapi/slydrz",
+  "dependencies": {
+    "fortune": "^0.2.4",
+    "fortune-mongodb": "^0.2.2"
+  }
+}
